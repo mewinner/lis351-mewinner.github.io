@@ -10,4 +10,4 @@
 
 </body>
 </html>
-<p>My name is Mara Winner</p>
+<p>My name is Mara</p>
